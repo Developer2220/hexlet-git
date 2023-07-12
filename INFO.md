@@ -1,3 +1,3 @@
-new line
-experimment with amend
-new data
+I love Hexlet!
+Something important.
+Space
